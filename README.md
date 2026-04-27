@@ -44,9 +44,14 @@ This dashboard helps stakeholders to:
 
 ---
 
-### 💡 What I Learned
+## 💡 What I Learned from This Project
+This project gave me a deeper understanding of how large datasets are structured in a real business environment.
 
-This project helped me improve my skills in Power BI, especially in building interactive dashboards and turning raw data into meaningful insights.
+I learned how to work with multiple related tables and how important data modeling is in building a reliable Power BI report.  
+
+It also helped me improve my ability to think in terms of business scenarios, not just visuals — especially when analyzing sales performance and identifying key trends over time.
+
+Overall, it strengthened my confidence in handling more complex datasets and building structured dashboards from scratch.
 
 ---
 
