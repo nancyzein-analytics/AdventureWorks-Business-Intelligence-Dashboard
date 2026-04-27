@@ -46,13 +46,13 @@ This dashboard helps stakeholders to:
 
 ### 🖼 Dashboard Preview
 
-<img width="1303" height="711" alt="Screenshot 2026-04-27 060211" src="https://github.com/user-attachments/assets/2db8e958-fc51-4ddc-9013-bc6c11f0c3b4" />
-<img width="998" height="594" alt="Screenshot 2026-04-27 060141" src="https://github.com/user-attachments/assets/fb55cf0d-80d0-491a-bee8-f892a64aeeed" />
-<img width="1109" height="539" alt="Screenshot 2026-04-27 060115" src="https://github.com/user-attachments/assets/2715d199-444d-4ce2-a399-6fb8c39da123" />
-<img width="1308" height="736" alt="Screenshot 2026-04-27 060031" src="https://github.com/user-attachments/assets/e642c3a0-c4f5-4d3f-99bf-38e3f2238336" />
-<img width="1311" height="736" alt="Screenshot 2026-04-27 060010" src="https://github.com/user-attachments/assets/6a5b212d-b2c6-4eb4-83d3-68a5cc46294c" />
-<img width="1309" height="737" alt="Screenshot 2026-04-27 055945" src="https://github.com/user-attachments/assets/502127cc-923f-49c3-97bf-504661a9f1d4" />
 <img width="1308" height="735" alt="Screenshot 2026-04-27 055916" src="https://github.com/user-attachments/assets/31ee60cc-22d3-491f-ac8d-7a2a9e9f7888" />
+<img width="1309" height="737" alt="Screenshot 2026-04-27 055945" src="https://github.com/user-attachments/assets/502127cc-923f-49c3-97bf-504661a9f1d4" />
+<img width="1311" height="736" alt="Screenshot 2026-04-27 060010" src="https://github.com/user-attachments/assets/6a5b212d-b2c6-4eb4-83d3-68a5cc46294c" />
+<img width="1308" height="736" alt="Screenshot 2026-04-27 060031" src="https://github.com/user-attachments/assets/e642c3a0-c4f5-4d3f-99bf-38e3f2238336" />
+<img width="1109" height="539" alt="Screenshot 2026-04-27 060115" src="https://github.com/user-attachments/assets/2715d199-444d-4ce2-a399-6fb8c39da123" />
+<img width="998" height="594" alt="Screenshot 2026-04-27 060141" src="https://github.com/user-attachments/assets/fb55cf0d-80d0-491a-bee8-f892a64aeeed" />
+<img width="1303" height="711" alt="Screenshot 2026-04-27 060211" src="https://github.com/user-attachments/assets/2db8e958-fc51-4ddc-9013-bc6c11f0c3b4" />
 
 ---
 
