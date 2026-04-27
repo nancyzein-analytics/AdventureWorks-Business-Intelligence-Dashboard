@@ -44,6 +44,12 @@ This dashboard helps stakeholders to:
 
 ---
 
+### 💡 What I Learned
+
+This project helped me improve my skills in Power BI, especially in building interactive dashboards and turning raw data into meaningful insights.
+
+---
+
 ### 🖼 Dashboard Preview
 
 <img width="1308" height="735" alt="Screenshot 2026-04-27 055916" src="https://github.com/user-attachments/assets/31ee60cc-22d3-491f-ac8d-7a2a9e9f7888" />
@@ -53,9 +59,3 @@ This dashboard helps stakeholders to:
 <img width="1109" height="539" alt="Screenshot 2026-04-27 060115" src="https://github.com/user-attachments/assets/2715d199-444d-4ce2-a399-6fb8c39da123" />
 <img width="998" height="594" alt="Screenshot 2026-04-27 060141" src="https://github.com/user-attachments/assets/fb55cf0d-80d0-491a-bee8-f892a64aeeed" />
 <img width="1303" height="711" alt="Screenshot 2026-04-27 060211" src="https://github.com/user-attachments/assets/2db8e958-fc51-4ddc-9013-bc6c11f0c3b4" />
-
----
-
-### 💡 What I Learned
-
-This project helped me improve my skills in Power BI, especially in building interactive dashboards and turning raw data into meaningful insights.
